@@ -210,7 +210,8 @@ h4 {
 
 h5 {
 
-    font-size: 14px
+    font-size: 20px;
+    font-weight: bold;
 
 }
 
@@ -934,7 +935,7 @@ a img.aligncenter {
 
 .top-navbar .bg-light{
 
-	background: #4c5a7d !important;
+	background: #282a35 !important;
 
 }
 
@@ -7811,14 +7812,16 @@ section {
   transition: 0.5s;
 }
 h3 {
-  font-size: 20px;
+  font-size: 32px;
   font-weight: 600;
   color: #1f194c;
   margin: 1em 0;
 }
+
+
 p {
   color: #575a7b;
-  font-size: 15px;
+  font-size: 20px;
   line-height: 1.6;
   letter-spacing: 0.03em;
 }
@@ -7861,6 +7864,10 @@ p {
 
 .icon-services{
     text-align: center;
+}
+
+.list-unstyled  li a{
+    font-size: 18px;
 }
 
 @media screen and (min-width: 768px) {

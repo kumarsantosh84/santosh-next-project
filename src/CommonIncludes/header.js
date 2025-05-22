@@ -3,9 +3,9 @@ function NavBar()
 {
 return(
 <>
-<header className="top-navbar">
+<header className="top-navbar" >
 
-		<nav className="navbar navbar-expand-lg navbar-light bg-light">
+		<nav className="navbar navbar-expand-lg navbar-light bg-light" >
 
 			<div className="container-fluid">
 

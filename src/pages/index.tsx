@@ -9,6 +9,7 @@ import HomeBanner from  "./../Components/HomeBanner";
 import HomeAbout from  "./../Components/HomeAbout";
 import HomeServices from  "./../Components/HomeServices";
 import HomeClients from  "./../Components/HomeClients";
+import Portfolio from  "./../Components/Portfolio";
 
 
 // const geistSans = Geist({
@@ -35,7 +36,8 @@ export default function Home() {
       <Navbar/>
       <HomeBanner/>
       <HomeAbout/>
-      <HomeServices/>     
+      <HomeServices/> 
+      <Portfolio/>    
       <HomeClients/>
       <Footer/>
 
