@@ -12,7 +12,7 @@ return(
         <div className="column">
           <div className="card">
              <div className="icon-services">
-             <img src="client_images/client-1.png" classNameName="client_icon" />
+             <img src="client_images/client-1.png" className="client_icon" />
             </div>           
                      
           </div>
@@ -21,7 +21,7 @@ return(
         <div className="column">
           <div className="card">           
                <div className="icon-services">
-             <img src="client_images/client-2.png" classNameName="client_icon" />
+             <img src="client_images/client-2.png" className="client_icon" />
             </div>           
           </div>
         </div>
@@ -29,7 +29,7 @@ return(
         <div className="column">
           <div className="card">           
                <div className="icon-services">
-             <img src="client_images/client-3.png" classNameName="client_icon" />
+             <img src="client_images/client-3.png" className="client_icon" />
             </div>           
           </div>
         </div>
@@ -37,7 +37,7 @@ return(
         <div className="column">
           <div className="card">           
               <div className="icon-services">
-             <img src="client_images/client-4.png" classNameName="client_icon" />
+             <img src="client_images/client-4.png" className="client_icon" />
             </div>            
           </div>
         </div>
@@ -45,7 +45,7 @@ return(
         <div className="column">
           <div className="card">           
                <div className="icon-services">
-             <img src="client_images/client-5.png" classNameName="client_icon" />
+             <img src="client_images/client-5.png" className="client_icon" />
             </div>          
           </div>
         </div>
@@ -53,7 +53,7 @@ return(
         <div className="column">
           <div className="card">           
                <div className="icon-services">
-             <img src="client_images/client-6.png" classNameName="client_icon" />
+             <img src="client_images/client-6.png" className="client_icon" />
             </div>          
           </div>
         </div>
