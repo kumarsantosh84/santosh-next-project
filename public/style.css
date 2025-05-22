@@ -7848,6 +7848,21 @@ p {
 .card:hover p {
   color: #f0f0f0;
 }
+
+.services_icon{
+    width: 100px;
+    height: 100px;
+}
+
+.client_icon{
+    width: 350px;
+    height: 100px;
+}
+
+.icon-services{
+    text-align: center;
+}
+
 @media screen and (min-width: 768px) {
   section {
     padding: 0 2em;

@@ -14,10 +14,11 @@ return(
       </div>
       <div class="row">
         <div class="column">
-          <div class="card">
-            <div class="icon-wrapper">
-             
-            </div>
+          <div class="card"> 
+             <div class="icon-services">
+             <img src="services_images/laravel.png" className="services_icon" />
+            </div>           
+                         
             <h3>Laravel</h3>
             <p>
               The PHP Framework for Web Artisans. Laravel is a web application framework with expressive, elegant syntax. We have already laid the foundation — freeing you to create without sweating the small things.
@@ -26,9 +27,9 @@ return(
         </div>
         <div class="column">
           <div class="card">
-            <div class="icon-wrapper">
-             
-            </div>
+            <div class="icon-services">
+             <img src="services_images/shopify.png" className="services_icon" />
+            </div>  
             <h3>Shopify</h3>
             <p>
               Shopify is the perfect solution for ecommerce website, which both easy to build and easy to maintain.
@@ -37,9 +38,9 @@ return(
         </div>
         <div class="column">
           <div class="card">
-            <div class="icon-wrapper">
-             
-            </div>
+           <div class="icon-services">
+             <img src="services_images/wordpress.png" className="services_icon" />
+            </div> 
             <h3>Wordpress</h3>
             <p>
               WordPress is a free and open-source content management system written in PHP. Features include a plugin architecture and a template system with widget.
@@ -48,9 +49,9 @@ return(
         </div>
         <div class="column">
           <div class="card">
-            <div class="icon-wrapper">
-             
-            </div>
+            <div class="icon-services">
+             <img src="services_images/corephp.png" className="services_icon" />
+            </div> 
             <h3>Core PHP</h3>
             <p>
               Core PHP is a simple, bare-bones PHP programming language. It can be used to create web applications
@@ -59,9 +60,9 @@ return(
         </div>
         <div class="column">
           <div class="card">
-            <div class="icon-wrapper">
-             
-            </div>
+           <div class="icon-services">
+             <img src="services_images/html.png" className="services_icon" />
+            </div> 
             <h3>HTML</h3>
             <p>
               HTML is the standard markup language for Web pages. With HTML you can create your own Website.
@@ -70,9 +71,9 @@ return(
         </div>
         <div class="column">
           <div class="card">
-            <div class="icon-wrapper">
-            
-            </div>
+            <div class="icon-services">
+             <img src="services_images/seo.png" className="services_icon" />
+            </div> 
             <h3>SEO/SMO</h3>
             <p>
               Search engine optimization (SEO) is the process of improving the quality and quantity of website traffic to a website or a web page from search engines. 

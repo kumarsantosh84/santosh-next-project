@@ -14,38 +14,51 @@ return(
       </div>
       <div class="row">
         <div class="column">
-          <div class="card">           
-              <img src="client_images/client-1.png" alt="" class="img-repsonsive"  />          
+          <div class="card">
+             <div class="icon-services">
+             <img src="client_images/client-1.png" className="client_icon" />
+            </div>           
+                     
           </div>
         </div>
 
         <div class="column">
           <div class="card">           
-              <img src="client_images/client-2.png" alt="" class="img-repsonsive"  />          
+               <div class="icon-services">
+             <img src="client_images/client-2.png" className="client_icon" />
+            </div>           
           </div>
         </div>
 
         <div class="column">
           <div class="card">           
-              <img src="client_images/client-3.png" alt="" class="img-repsonsive"  />          
+               <div class="icon-services">
+             <img src="client_images/client-3.png" className="client_icon" />
+            </div>           
           </div>
         </div>
 
         <div class="column">
           <div class="card">           
-              <img src="client_images/client-4.png" alt="" class="img-repsonsive"  />          
+              <div class="icon-services">
+             <img src="client_images/client-4.png" className="client_icon" />
+            </div>            
           </div>
         </div>
 
         <div class="column">
           <div class="card">           
-              <img src="client_images/client-5.png" alt="" class="img-repsonsive"  />          
+               <div class="icon-services">
+             <img src="client_images/client-5.png" className="client_icon" />
+            </div>          
           </div>
         </div>
 
         <div class="column">
           <div class="card">           
-              <img src="client_images/client-6.png" alt="" class="img-repsonsive"  />          
+               <div class="icon-services">
+             <img src="client_images/client-6.png" className="client_icon" />
+            </div>          
           </div>
         </div>
 
