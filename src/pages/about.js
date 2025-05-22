@@ -1,13 +1,13 @@
 import Head from "next/head";
-import Image from "next/image";
+// import Image from "next/image";
 
-import { Geist, Geist_Mono } from "next/font/google";
-import styles from "@/styles/Home.module.css";
+//import { Geist, Geist_Mono } from "next/font/google";
+//import styles from "@/styles/Home.module.css";
 import Navbar from  "./../CommonIncludes/header";
 import Footer from  "./../CommonIncludes/footer";
-import HomeBanner from  "./../Components/HomeBanner";
+//import HomeBanner from  "./../Components/HomeBanner";
 import HomeAbout from  "./../Components/HomeAbout";
-import HomeServices from  "./../Components/HomeServices";
+//import HomeServices from  "./../Components/HomeServices";
 import HomeClients from  "./../Components/HomeClients";
 
 

@@ -1,3 +1,4 @@
+import Link from "next/link";
 function NavBar()
 {
 return(
@@ -8,11 +9,11 @@ return(
 
 			<div className="container-fluid">
 
-				<a  className="navbar-brand logotxt" href="/" >
+				<Link  className="navbar-brand logotxt" href="/" >
 
                 Website Develop				
 
-				</a>
+				</Link>
 
 				<button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbars-host" aria-controls="navbars-rs-food" aria-expanded="false" aria-label="Toggle navigation">
 
@@ -28,15 +29,15 @@ return(
 
 					<ul className="navbar-nav ml-auto">
 
-						<li className="nav-item active"><a className="nav-link" href="/">Home</a></li>
+						<li className="nav-item active"><Link className="nav-link" href="/">Home</Link></li>
 
-						<li className="nav-item"><a className="nav-link" href="/about">About Us</a></li>						
+						<li className="nav-item"><Link className="nav-link" href="/about">About Us</Link></li>						
                         
-                        <li className="nav-item"><a className="nav-link" href="/services">Our Services</a></li>
-                        <li className="nav-item"><a className="nav-link" href="/pricing">Pricing</a></li>
-						<li className="nav-item"><a className="nav-link" href="/team">Our Team</a></li>				
+                        <li className="nav-item"><Link className="nav-link" href="/services">Our Services</Link></li>
+                        <li className="nav-item"><Link className="nav-link" href="/pricing">Pricing</Link></li>
+						<li className="nav-item"><Link className="nav-link" href="/team">Our Team</Link></li>				
 
-						<li className="nav-item"><a className="nav-link" href="#contact_details">Contact</a></li>
+						<li className="nav-item"><Link className="nav-link" href="#contact_details">Contact</Link></li>
 
 					</ul>
 

@@ -1,3 +1,4 @@
+import Link from "next/link";
 function Footer()
 {
 return(
@@ -48,11 +49,11 @@ return(
 
                         <ul className="footer-links">
 
-                            <li><a href="/">Home</a></li>
-                            <li><a href="/about">About</a></li>
-                            <li><a  href="/services">Our Services</a></li>
-                            <li><a href="/team">Our Team</a></li>
-							<li><a href="/contact">Contact</a></li>
+                            <li><Link href="/">Home</Link></li>
+                            <li><Link href="/about">About</Link></li>
+                            <li><Link href="/services">Our Services</Link></li>
+                            <li><Link href="/team">Our Team</Link></li>
+							<li><Link href="/contact">Contact</Link></li>
 
                         </ul>
 
@@ -75,9 +76,9 @@ return(
 
 
                         <ul className="footer-links">
-                        <li><a href="mailto:jhaphpdeveloper@gmail.com">jhaphpdeveloper@gmail.com</a></li>
-                        <li><a href="mailto:info@websitedevelop.in">info@websitedevelop.in</a></li>                        
-                        <li><a href="/">www.websitedevelop.in</a></li>
+                        <li><Link href="mailto:jhaphpdeveloper@gmail.com">jhaphpdeveloper@gmail.com</Link></li>
+                        <li><Link href="mailto:info@websitedevelop.in">info@websitedevelop.in</Link></li>                        
+                        <li><Link href="/">www.websitedevelop.in</Link></li>
                         <li>A-39 & A-40, First Floor, Street No. 3 Syndicate Enclave, Phankha Road, New Delhi - 110045</li>
                             <li>+91 8920476441</li>
 
