@@ -9,7 +9,7 @@ function Portfolio(){
 </div>       
 </div>
 </div>
-        <div id="carouselExampleIndicators" className="carousel slide" data-ride="carousel" style={{padding:"10px 50px 50px 50px"}}>
+        <div id="carouselExampleIndicators" className="carousel slide" data-ride="carousel" style={{padding:"50px 50px 50px 50px",background:"lightgray"}}>
   <ol className="carousel-indicators">
     <li data-target="#carouselExampleIndicators" data-slide-to="0" className="active"></li>
     <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
