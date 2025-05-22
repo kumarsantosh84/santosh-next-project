@@ -36,7 +36,7 @@ function Contact()
 			<div className="col-lg-5">
 				<div className="single_address">
 					<h4>Our Address</h4>
-					<p>A-39 & A-40, First Floor, Street No. 3 Syndicate Enclave, Phankha Road, New Delhi - 110045</p>
+					<p>Janakpuri, New Delhi - 110058</p>
 				</div>
 				<div className="single_address">
 					<h4>Send your message</h4>
