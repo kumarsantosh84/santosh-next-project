@@ -48,7 +48,7 @@ return(
 
 				<div className="col-xl-6 col-lg-6 col-md-12 col-sm-12">
 
-                    <div className="post-media wow fadeIn">
+                    <div className="post-media">
 
                         <img src="images/development.png" alt="" className="img-fluid img-rounded" />
 
@@ -62,7 +62,7 @@ return(
 
 				<div className="col-xl-6 col-lg-6 col-md-12 col-sm-12">
 
-                    <div className="post-media wow fadeIn">
+                    <div className="post-media">
 
                         <img src="images/design.png" alt="" className="img-fluid img-rounded" />
 
