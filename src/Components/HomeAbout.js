@@ -12,7 +12,7 @@ return(
 
                     <h3>About</h3>
 
-                    <p className="lead">We are, a leading website development company in Delhi. Our talented web developers are able to provide effective web development services that deliver powerful user friendly interface. You will get complete online solution including E-commerce development, Design and Branding, E-Marketing and Online Applications. </p>
+                    <p className="lead">We are, a leading website development services in Delhi. Our talented web developers are able to provide effective web development services that deliver powerful user friendly interface. You will get complete online solution including E-commerce development, Design and Branding, E-Marketing and Online Applications. </p>
 
                 </div>
 
