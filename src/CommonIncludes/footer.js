@@ -1,6 +1,9 @@
 import Link from "next/link";
 function Footer()
 {
+
+  
+
 return(
 <>
  <footer className="footer">
@@ -19,7 +22,7 @@ return(
 
                         </div>
 
-                        <p> We work independent as Free Lance.</p>   
+                        <p style={{marginTop:"10px",padding:"15px"}}> We work independent as Free Lance.</p>   
 
 						<div className="footer-right">
 
