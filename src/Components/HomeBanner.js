@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 function HomeBanner()
 {
 return(
@@ -36,13 +38,13 @@ return(
 
 										<p className="lead">You will get complete online solution including E-commerce development, Design and Online Applications.</p>
 
-											<a href="#" className="hover-btn-new"><span>Contact Us</span></a>
+											<Link href="/contact" className="hover-btn-new"><span>Contact Us</span></Link>
 
 											&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-											<a href="#" className="hover-btn-new"><span>Read More</span></a>
+											<Link href="/services" className="hover-btn-new"><span>Read More</span></Link>
 
-									</div>
+											</div>
 
 								</div>
 
@@ -74,11 +76,9 @@ return(
 
 										<p className="lead" data-animation="animated fadeInLeft">We Provide Linux Web Hosting at affordable price starting at just Rs.3000/- per year.</p>
 
-											<a href="#" className="hover-btn-new"><span>Contact Us</span></a>
+											<Link href="/contact" className="hover-btn-new"><span>Contact Us</span></Link>
 
-											&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-											<a href="#" className="hover-btn-new"><span>Read More</span></a>
+											
 
 									</div>
 
