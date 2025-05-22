@@ -7,8 +7,8 @@ return(
     <section>
       <div class="row">
         
-	<div class="section-title row text-center">                        
-		<h3>Our Clients </h3>              
+	<div class="section-title text-center">                        
+		<h3>Our Clients </h3>       
 
             </div>    
       </div>
