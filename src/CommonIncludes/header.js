@@ -37,7 +37,7 @@ return(
                         <li className="nav-item"><Link className="nav-link" href="/pricing">Pricing</Link></li>
 						<li className="nav-item"><Link className="nav-link" href="/team">Our Team</Link></li>				
 
-						<li className="nav-item"><Link className="nav-link" href="/contact">Contact Us</Link></li>
+						<li className="nav-item"><Link className="nav-link" href="/contact">Contact</Link></li>
 
 					</ul>
 
